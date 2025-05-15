@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="speed">
+    <file>cubuk.png</file>
+    <file>hizGosterge.png</file>
+    <file>cubuk_hiz.png</file>
+  </qresource>
+</RCC>

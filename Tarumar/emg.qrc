@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="emergancy">
+    <file>harita.png</file>
+    <file>emergency_button.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="camera">
+    <file>on_Kamera.png</file>
+    <file>yan_Kamera.png</file>
+    <file>kamera.png</file>
+    <file>onKamera.png</file>
+  </qresource>
+</RCC>
